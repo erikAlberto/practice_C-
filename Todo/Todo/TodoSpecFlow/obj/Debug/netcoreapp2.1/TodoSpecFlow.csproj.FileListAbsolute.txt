@@ -1,0 +1,6 @@
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\TodoSpecFlow\bin\Debug\netcoreapp2.1\TodoSpecFlow.deps.json
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\TodoSpecFlow\bin\Debug\netcoreapp2.1\TodoSpecFlow.dll
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\TodoSpecFlow\obj\Debug\netcoreapp2.1\TodoSpecFlow.csprojAssemblyReference.cache
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\TodoSpecFlow\obj\Debug\netcoreapp2.1\TodoSpecFlow.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\TodoSpecFlow\obj\Debug\netcoreapp2.1\TodoSpecFlow.AssemblyInfoInputs.cache
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\TodoSpecFlow\obj\Debug\netcoreapp2.1\TodoSpecFlow.AssemblyInfo.cs
