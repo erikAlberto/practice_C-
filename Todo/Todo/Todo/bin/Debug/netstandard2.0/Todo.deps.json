@@ -1,0 +1,185 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "f16eaf21cc9ae137e1bdb0e1fe93748f1f65e416"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Todo/1.0.0": {
+        "dependencies": {
+          "Microsoft.AppCenter.Analytics": "1.12.0",
+          "Microsoft.AppCenter.Crashes": "1.12.0",
+          "NETStandard.Library": "2.0.3",
+          "Xamarin.Forms": "3.0.0.482510",
+          "sqlite-net-pcl": "1.4.118"
+        },
+        "runtime": {
+          "Todo.dll": {}
+        }
+      },
+      "Microsoft.AppCenter/1.12.0": {
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "1.12.0.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Analytics/1.12.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "1.12.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Analytics.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "1.12.0.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Crashes/1.12.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "1.12.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Crashes.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "1.12.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "sqlite-net-pcl/1.4.118": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "SQLitePCLRaw.bundle_green": "1.1.5"
+        },
+        "runtime": {
+          "lib/netstandard1.1/SQLite-net.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SQLitePCLRaw.bundle_green/1.1.5": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "SQLitePCLRaw.core": "1.1.5"
+        },
+        "runtime": {
+          "lib/netstandard1.1/SQLitePCLRaw.batteries_green.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard1.1/SQLitePCLRaw.batteries_v2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SQLitePCLRaw.core/1.1.5": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.1/SQLitePCLRaw.core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/3.0.0.482510": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Todo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AppCenter/1.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bjgzktS4MAeVEr8ck4EKGimk6F+EHUykM8PMyYqTHaH7jCjkySTKtm2bjqVdowEXxkvEJOm23z1MPQEWMN9W0Q==",
+      "path": "microsoft.appcenter/1.12.0",
+      "hashPath": "microsoft.appcenter.1.12.0.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Analytics/1.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2gsclEW+Sv0kVmxusWAKFo2986jJZE8as76ou2z0vpBazUBF5M5VxAgcMPkW+mjq75NaCacwJaVBavjFr+e7Vg==",
+      "path": "microsoft.appcenter.analytics/1.12.0",
+      "hashPath": "microsoft.appcenter.analytics.1.12.0.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Crashes/1.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Cqbf5CgAH9GGfnV2f7UES0Veegf+hjkmM+YG3ooMlEGQrH1jzR4aBNLfYnhP3AvOGQbnodQmK5fVqZOHFXlKIw==",
+      "path": "microsoft.appcenter.crashes/1.12.0",
+      "hashPath": "microsoft.appcenter.crashes.1.12.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "sqlite-net-pcl/1.4.118": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S5yWVFDWV4hq2ldntae/Iq+Oe9LMjX53XnhXrpNbxphQy4lSUMbNgAjrOZ64AO81cHC6VK/nJlGOJUNQYHO+hw==",
+      "path": "sqlite-net-pcl/1.4.118",
+      "hashPath": "sqlite-net-pcl.1.4.118.nupkg.sha512"
+    },
+    "SQLitePCLRaw.bundle_green/1.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1iFD+xBp+F4bGNX2qHqWw5khFmK6jW8U+Fo/cQYfOMssVSi2ZZEwg0CCxRr9AGPDsRnh9ZWFM/hp9K35gcc4WA==",
+      "path": "sqlitepclraw.bundle_green/1.1.5",
+      "hashPath": "sqlitepclraw.bundle_green.1.1.5.nupkg.sha512"
+    },
+    "SQLitePCLRaw.core/1.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f5PoVZnZ1Y3wddUxW4Y/VVysT7H5PmoeznUVi7FC5EYq3GDV9qQVkY9PUcLYPkXF2fEa3qZjKiIsg/Oruf3dzQ==",
+      "path": "sqlitepclraw.core/1.1.5",
+      "hashPath": "sqlitepclraw.core.1.1.5.nupkg.sha512"
+    },
+    "Xamarin.Forms/3.0.0.482510": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JVMTkR2/I6ujURllaBmXQAE8Cxg0Q1xHopuDVKohG1Hn3afsZx4Y4fMElVOXVBziewKVW3i8QBes5Pl5p48Tmw==",
+      "path": "xamarin.forms/3.0.0.482510",
+      "hashPath": "xamarin.forms.3.0.0.482510.nupkg.sha512"
+    }
+  }
+}

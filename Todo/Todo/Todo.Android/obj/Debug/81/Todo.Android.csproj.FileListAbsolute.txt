@@ -1,0 +1,206 @@
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\Todo.Android.csprojAssemblyReference.cache
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\libraryimports.cache.stamp
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\res.flag
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\Todo.Android.nuget.stamp
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\Todo.Android.csproj.CoreCompileInputs.cache
+D:\Downloads\Todo\Todo.Android\bin\Debug\QuickTodo.Android.dll
+D:\Downloads\Todo\Todo.Android\bin\Debug\QuickTodo.Android.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\Todo.Android.apk
+D:\Downloads\Todo\Todo.Android\bin\Debug\Todo.Android-Signed.apk
+D:\Downloads\Todo\Todo.Android\bin\Debug\Todo.dll
+D:\Downloads\Todo\Todo.Android\bin\Debug\Todo.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\Todo.Android.csproj.CopyComplete
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\QuickTodo.Android.dll
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\QuickTodo.Android.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\bin\Todo.Android.apk
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\res\layout\main.xml
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\res\values\strings.xml
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\res\drawable\icon.png
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\res\drawable\check.png
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\res\raw\todosqlite.db3
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\res\drawable\plus.png
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\res\drawable\check2x.png
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\res\layout\tabbar.xml
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\res\layout\toolbar.xml
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\res\values\styles.xml
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\res\values\colors.xml
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\R.cs.flag
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\R.txt
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\uploadflags.txt
+D:\Downloads\Todo\Todo.Android\bin\Debug\Mono.Android.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\mscorlib.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\SQLite-net.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.Core.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.IO.Compression.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.Net.Http.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.Xml.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.Runtime.Serialization.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.ComponentModel.Composition.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\Mono.Security.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.Data.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.Numerics.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.Transactions.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.Web.Services.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\System.Xml.Linq.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\mscorlib.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\SQLite-net.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.Core.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\Todo.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.Xml.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.Data.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\QuickTodo.Android.dll.mdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Downloads\Todo\Todo.Android\bin\Debug\QuickTodo.Android.dll.mdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\QuickTodo.Android.dll.mdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\mscorlib.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\SQLite-net.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.Core.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.Data.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\System.Xml.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\Todo.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+D:\Downloads\Todo\Todo.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\QuickTodo.Android.dll
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\QuickTodo.Android.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\Todo.Android.apk
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\Todo.Android-Signed.apk
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\Todo.dll
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\Todo.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\Todo.Android.nuget.stamp
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\Todo.Android.csprojAssemblyReference.cache
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\res.flag
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\Todo.Android.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\Todo.Android.csproj.CopyComplete
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\QuickTodo.Android.dll
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\QuickTodo.Android.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\bin\Todo.Android.apk
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\res\layout\main.xml
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\res\values\strings.xml
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\res\drawable\icon.png
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\res\drawable\check.png
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\res\raw\todosqlite.db3
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\res\drawable\plus.png
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\res\drawable\check2x.png
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\res\layout\tabbar.xml
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\res\layout\toolbar.xml
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\res\values\styles.xml
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\res\values\colors.xml
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\R.cs.flag
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\R.txt
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\uploadflags.txt
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\Mono.Android.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\mscorlib.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\SQLite-net.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.Core.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.Xml.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\Mono.Security.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.Data.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.Numerics.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.Transactions.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\SQLite-net.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\Todo.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\QuickTodo.Android.dll.mdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\QuickTodo.Android.dll.mdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\QuickTodo.Android.dll.mdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\SQLite-net.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.Data.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.IO.Compression.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.Numerics.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.Transactions.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.Web.Services.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.Xml.Linq.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\Todo.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\bin\Debug\QuickTodo.Android.dll
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\QuickTodo.Android.dll.mdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\Todo.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
