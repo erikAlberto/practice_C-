@@ -1,0 +1,408 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Newtonsoft.Json/10.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NUnit/2.6.7": {
+        "type": "package",
+        "compile": {
+          "lib/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/nunit.framework.dll": {}
+        }
+      },
+      "SpecFlow/2.4.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3",
+          "System.ValueTuple": "4.3.0"
+        },
+        "compile": {
+          "lib/net45/TechTalk.SpecFlow.dll": {}
+        },
+        "runtime": {
+          "lib/net45/TechTalk.SpecFlow.dll": {}
+        },
+        "build": {
+          "build/SpecFlow.targets": {}
+        }
+      },
+      "System.ValueTuple/4.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/System.ValueTuple.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/System.ValueTuple.dll": {}
+        }
+      },
+      "Xamarin.UITest/2.2.7": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Xamarin.UITest.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Xamarin.UITest.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "Newtonsoft.Json/10.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NUnit/2.6.7": {
+        "type": "package",
+        "compile": {
+          "lib/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/nunit.framework.dll": {}
+        }
+      },
+      "SpecFlow/2.4.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3",
+          "System.ValueTuple": "4.3.0"
+        },
+        "compile": {
+          "lib/net45/TechTalk.SpecFlow.dll": {}
+        },
+        "runtime": {
+          "lib/net45/TechTalk.SpecFlow.dll": {}
+        },
+        "build": {
+          "build/SpecFlow.targets": {}
+        }
+      },
+      "System.ValueTuple/4.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/System.ValueTuple.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/System.ValueTuple.dll": {}
+        }
+      },
+      "Xamarin.UITest/2.2.7": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Xamarin.UITest.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Xamarin.UITest.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "Newtonsoft.Json/10.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NUnit/2.6.7": {
+        "type": "package",
+        "compile": {
+          "lib/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/nunit.framework.dll": {}
+        }
+      },
+      "SpecFlow/2.4.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3",
+          "System.ValueTuple": "4.3.0"
+        },
+        "compile": {
+          "lib/net45/TechTalk.SpecFlow.dll": {}
+        },
+        "runtime": {
+          "lib/net45/TechTalk.SpecFlow.dll": {}
+        },
+        "build": {
+          "build/SpecFlow.targets": {}
+        }
+      },
+      "System.ValueTuple/4.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/System.ValueTuple.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/System.ValueTuple.dll": {}
+        }
+      },
+      "Xamarin.UITest/2.2.7": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Xamarin.UITest.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Xamarin.UITest.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "Newtonsoft.Json/10.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NUnit/2.6.7": {
+        "type": "package",
+        "compile": {
+          "lib/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/nunit.framework.dll": {}
+        }
+      },
+      "SpecFlow/2.4.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3",
+          "System.ValueTuple": "4.3.0"
+        },
+        "compile": {
+          "lib/net45/TechTalk.SpecFlow.dll": {}
+        },
+        "runtime": {
+          "lib/net45/TechTalk.SpecFlow.dll": {}
+        },
+        "build": {
+          "build/SpecFlow.targets": {}
+        }
+      },
+      "System.ValueTuple/4.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/System.ValueTuple.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/System.ValueTuple.dll": {}
+        }
+      },
+      "Xamarin.UITest/2.2.7": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Xamarin.UITest.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Xamarin.UITest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/10.0.3": {
+      "sha512": "hSXaFmh7hNCuEoC4XNY5DrRkLDzYHqPx/Ik23R4J86Z7PE/Y6YidhG602dFVdLBRSdG6xp9NabH3dXpcoxWvww==",
+      "type": "package",
+      "path": "newtonsoft.json/10.0.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.10.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "tools/install.ps1"
+      ]
+    },
+    "NUnit/2.6.7": {
+      "sha512": "JO0/cW6fEvS4Kmdf5n8CSCUhqcxN1S9EyreVvwZhl+801rDsiLN01omBKZpYU0pZdmPmoahACcfjtmfMT0KEHQ==",
+      "type": "package",
+      "path": "nunit/2.6.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/nunit.framework.dll",
+        "lib/nunit.framework.xml",
+        "license.txt",
+        "nunit.2.6.7.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    },
+    "SpecFlow/2.4.1": {
+      "sha512": "OLOkhWsglCCPXEkXIubEPqtZ082OQBKNO1S3TIlgcxxSLv6hUgL5aTRXDCPIKUvVzGJtj23Bt8yqHDELA6ZTOQ==",
+      "type": "package",
+      "path": "specflow/2.4.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "build/SpecFlow.targets",
+        "changelog.txt",
+        "content/App.config.transform",
+        "lib/net45/TechTalk.SpecFlow.dll",
+        "specflow.2.4.1.nupkg.sha512",
+        "specflow.nuspec",
+        "tools/CommandLine.dll",
+        "tools/Gherkin.dll",
+        "tools/Licenses/BoDi-LICENSE-Apache2.txt",
+        "tools/Licenses/Gherkin-LICENSE-MIT.txt",
+        "tools/Licenses/Newtonsoft.Json-LICENSE-MIT.md",
+        "tools/Licenses/System.ValueTuple-LICENSE-MIT.txt",
+        "tools/Newtonsoft.Json.dll",
+        "tools/System.ValueTuple.dll",
+        "tools/TechTalk.SpecFlow.Generator.dll",
+        "tools/TechTalk.SpecFlow.Parser.dll",
+        "tools/TechTalk.SpecFlow.Reporting.dll",
+        "tools/TechTalk.SpecFlow.Utils.dll",
+        "tools/TechTalk.SpecFlow.dll",
+        "tools/TechTalk.SpecFlow.props",
+        "tools/TechTalk.SpecFlow.targets",
+        "tools/TechTalk.SpecFlow.tasks",
+        "tools/app.config",
+        "tools/plugincompability.config",
+        "tools/specflow.exe",
+        "tools/specflow.exe.config"
+      ]
+    },
+    "System.ValueTuple/4.3.0": {
+      "sha512": "cNLEvBX3d6MMQRZe3SMFNukVbitDAEpVZO17qa0/2FHxZ7Y7PpFRpr6m2615XYM/tYYYf0B+WyHNujqIw8Luwg==",
+      "type": "package",
+      "path": "system.valuetuple/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/netstandard1.0/.xml",
+        "lib/netstandard1.0/System.ValueTuple.dll",
+        "lib/portable-net40+sl4+win8+wp8/.xml",
+        "lib/portable-net40+sl4+win8+wp8/System.ValueTuple.dll",
+        "system.valuetuple.4.3.0.nupkg.sha512",
+        "system.valuetuple.nuspec"
+      ]
+    },
+    "Xamarin.UITest/2.2.7": {
+      "sha512": "qlSeDT8ajDMfozooceuIGpnkIO1e/8jMfIX1NmBqnWh5d1fOkMafpeq9HYVxPO6f3VntDlx5/Zar9TBFqeF1lQ==",
+      "type": "package",
+      "path": "xamarin.uitest/2.2.7",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "Xamarin.UITest-License.rtf",
+        "lib/net45/Xamarin.UITest.dll",
+        "lib/net45/Xamarin.UITest.xml",
+        "lib/portable-net45+win8+wp8/Xamarin.UITest.dll",
+        "lib/portable-net45+win8+wp8/Xamarin.UITest.xml",
+        "lib/tools/test-cloud.exe",
+        "tools/test-cloud.exe",
+        "xamarin.uitest.2.2.7.nupkg.sha512",
+        "xamarin.uitest.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "NUnit >= 2.6.7",
+      "SpecFlow >= 2.4.1",
+      "Xamarin.UITest >= 2.2.7"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alberto Vargas\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Alberto Vargas\\Desktop\\Todo\\Todo\\UITestTodoApp\\UITestTodoApp.csproj",
+      "projectName": "UITestTodoApp",
+      "projectPath": "C:\\Users\\Alberto Vargas\\Desktop\\Todo\\Todo\\UITestTodoApp\\UITestTodoApp.csproj",
+      "packagesPath": "C:\\Users\\Alberto Vargas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alberto Vargas\\Desktop\\Todo\\Todo\\UITestTodoApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Alberto Vargas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "NUnit": {
+            "target": "Package",
+            "version": "[2.6.7, )"
+          },
+          "SpecFlow": {
+            "target": "Package",
+            "version": "[2.4.1, )"
+          },
+          "Xamarin.UITest": {
+            "target": "Package",
+            "version": "[2.2.7, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

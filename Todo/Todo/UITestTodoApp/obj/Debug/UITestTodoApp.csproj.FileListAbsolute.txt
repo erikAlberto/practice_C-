@@ -1,0 +1,12 @@
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\UITestTodoApp\bin\Debug\UITestTodoApp.dll.config
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\UITestTodoApp\bin\Debug\UITestTodoApp.dll
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\UITestTodoApp\bin\Debug\UITestTodoApp.pdb
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\UITestTodoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\UITestTodoApp\bin\Debug\nunit.framework.dll
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\UITestTodoApp\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\UITestTodoApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\UITestTodoApp\bin\Debug\Xamarin.UITest.dll
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\UITestTodoApp\obj\Debug\UITestTodoApp.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\UITestTodoApp\obj\Debug\UITestTodoApp.csproj.CopyComplete
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\UITestTodoApp\obj\Debug\UITestTodoApp.dll
+C:\Users\Alberto Vargas\Desktop\Todo\Todo\UITestTodoApp\obj\Debug\UITestTodoApp.pdb
